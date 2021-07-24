@@ -9,7 +9,7 @@ Khóa: 15
 
 Ngành: CNTT
 
-Các bài tập quá trình cá nhân trong môn học CS2205.CH1501
+**Các bài tập quá trình cá nhân trong môn học CS2205.CH1501
 
 QT01: Tự giới thiệu - Hoàn thành
 
